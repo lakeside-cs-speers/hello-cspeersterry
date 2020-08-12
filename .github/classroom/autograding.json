@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "TestJava",
+      "setup": "",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test HelloWorld",
+      "setup": "",
+      "run": "System.out.println()",
+      "input": "",
+      "output": "hello world",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
